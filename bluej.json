@@ -1,0 +1,12 @@
+{
+    "homepage": "https://bluej.org/",
+    "version": "4.2.2",
+    "description": "Java Development Enironment for Beginners",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.bluej.org/download/files/BlueJ-windows-422.msi",
+        }
+    },
+    "extract_dir": "BlueJ",
+    "bin": "BlueJ.exe"
+}
