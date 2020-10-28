@@ -4,7 +4,8 @@
     "description": "Java Development Enironment for Beginners",
     "architecture": {
         "64bit": {
-            "url": "https://www.bluej.org/download/files/BlueJ-windows-422.msi"
+            "url": "https://www.bluej.org/download/files/BlueJ-windows-422.msi",
+            "hash": "6a70e4a9fd48bc7e22143c90ad0bba624b88187dcf70a61893d020fd2b61f033"
         }
     },
     "extract_dir": "BlueJ",
