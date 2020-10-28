@@ -2,6 +2,7 @@
     "homepage": "https://bluej.org/",
     "version": "4.2.2",
     "description": "Java Development Enironment for Beginners",
+    "license": "GNU General Public License",
     "architecture": {
         "64bit": {
             "url": "https://www.bluej.org/download/files/BlueJ-windows-422.msi",
