@@ -1,0 +1,16 @@
+{
+    "homepage": "https://www.greenfoot.org/",
+    "version": "3.6.1",
+    "description": "Greenfoot Learn Coding",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.greenfoot.org/download/files/Greenfoot-windows-361.msi"
+        }
+    },
+    "extract_dir": "Greenfoot",
+    "bin": "Greenfoot.exe",
+    "shortcuts": [
+        "Greenfoot.exe",
+        "Greenfoot"
+    ]
+}
