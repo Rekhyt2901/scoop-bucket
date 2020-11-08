@@ -63,6 +63,7 @@
         "wcx_ftp.ini",
         "wincmd.ini",
         "wincmd.key",
-        "LANGUAGE"
+        "LANGUAGE\\Custom.lng",
+        "LANGUAGE\\Custom.mnu"
     ]
 }
